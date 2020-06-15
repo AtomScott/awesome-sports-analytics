@@ -1,3 +1,8 @@
+#### Since there isn't a lot for me to manage, you can simply open an issue with a request label.
+example. https://github.com/AtomScott/awesome-sports-analytics/issues/1
+
+<hr>
+
 # Contribution Guidelines
 
 **Your pull request should have a useful title. Please carefully read everything in [Adding to this list](#adding-to-this-list).**
