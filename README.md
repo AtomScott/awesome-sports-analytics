@@ -2,6 +2,8 @@
 
 A curated list of awesome machine learning applications in the sports domain.
 
+[![HitCount](http://hits.dwyl.com/AtomScott/awesome-sports-analytics.svg)](http://hits.dwyl.com/AtomScott/awesome-sports-analytics)
+
 ## Contributing
 
 Check the [contribution guidelines](https://github.com/AtomScott/awesome-sports-analytics/blob/master/contributing.md).
