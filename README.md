@@ -1,6 +1,8 @@
 # Awesome Sports Analytics: [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome machine learning applications in the sports domain.
+An up to date version of this awesome list can be found [here](https://atomscott.me/Awesome-Sports-Analytics-a1a6595efc6e498b8a827dc72179239e)
+(I'll be writing in this notion page for the time being).
 
 [![HitCount](http://hits.dwyl.com/AtomScott/awesome-sports-analytics.svg)](http://hits.dwyl.com/AtomScott/awesome-sports-analytics)
 
