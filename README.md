@@ -141,6 +141,8 @@ SSAC don't seem to archive past conferences so search Google Scholar with `sourc
 
 ## Webstites/Blogs/Youtube
 
+- [CURSD](https://cursd.com) - Cross-sport luck index ranking 150+ teams across EPL, La Liga, Ligue 1, NHL, NBA, and MLB using xG, Pythagorean expectation, and sport-specific advanced stats.
+
 ## Other
 
 ## ※ Notes
