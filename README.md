@@ -122,6 +122,10 @@ Or DM me on [twitter](https://twitter.com/AtomJamesScott) for a ~~fast~~ respons
 
 - NHL Game Data [[link](https://www.kaggle.com/martinellis/nhl-game-data)]
 
+**Tennis**
+
+- Tennis Results and Closing Odds, ATP/WTA/Challenger/ITF (paid, Apify) [[link](https://apify.com/cprussin/tennis-matches-odds?fpr=to54nm)]
+
 **Other**
 
 - FiveThirtyEight [[link](https://github.com/fivethirtyeight/data)]
