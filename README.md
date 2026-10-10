@@ -141,6 +141,8 @@ SSAC don't seem to archive past conferences so search Google Scholar with `sourc
 
 ## Webstites/Blogs/Youtube
 
+- [Chase Analytics](https://chase-analytics.com/) - Free multi-sport analytics platform (MLB, NFL, college football, WNBA) with matchup breakdowns, player and team splits, and model projections compared to market lines.
+
 ## Other
 
 ## ※ Notes
