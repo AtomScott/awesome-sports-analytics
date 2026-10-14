@@ -122,6 +122,10 @@ Or DM me on [twitter](https://twitter.com/AtomJamesScott) for a ~~fast~~ respons
 
 - NHL Game Data [[link](https://www.kaggle.com/martinellis/nhl-game-data)]
 
+**Combat Sports**
+
+- BJJGraph [[link](https://github.com/diogoseca/bjjgraph)]
+
 **Other**
 
 - FiveThirtyEight [[link](https://github.com/fivethirtyeight/data)]
