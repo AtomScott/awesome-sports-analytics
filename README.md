@@ -141,6 +141,8 @@ SSAC don't seem to archive past conferences so search Google Scholar with `sourc
 
 ## Webstites/Blogs/Youtube
 
+- [Footalytics](https://footalytics.farvor.com) - Football match predictions (win/draw/loss probabilities, over/under 2.5 goals, BTTS) via API and MCP server, with a publicly graded accuracy ledger.
+
 ## Other
 
 ## ※ Notes
