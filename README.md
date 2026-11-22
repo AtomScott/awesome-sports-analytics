@@ -95,6 +95,8 @@ Or DM me on [twitter](https://twitter.com/AtomJamesScott) for a ~~fast~~ respons
 **Soccer**
 
 - StatsBomb Open Data [[link](https://github.com/statsbomb/open-data)]
+- AsianScore Verifiable Football & NBA xG Prediction Ledger (CC BY 4.0 CSV/JSONL + Live API) [[link](https://github.com/AIYIXIU/asianscore-xg-ledger-dataset)] [[live](https://asianscore.com/ai.html)]
+
 - football.db [[link](https://openfootball.github.io/)]
 - FIFA 19 complete player dataset [[link](https://www.kaggle.com/karangadiya/fifa19)]
 - Fifa 18 More Complete Player Dataset [[link](https://www.kaggle.com/kevinmh/fifa-18-more-complete-player-dataset)]
