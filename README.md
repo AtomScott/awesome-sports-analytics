@@ -127,6 +127,7 @@ Or DM me on [twitter](https://twitter.com/AtomJamesScott) for a ~~fast~~ respons
 - FiveThirtyEight [[link](https://github.com/fivethirtyeight/data)]
 - Sports-1M [[link](https://cs.stanford.edu/people/karpathy/deepvideo/index.html)]
 - 120 years of Olympic history: athletes and results [[link](120 years of Olympic history: athletes and results)]
+- [Sports Odds API](https://apify.com/publicrecords/sports-odds-api) - Live odds from 24 Kambi-powered sportsbooks (BetRivers, Unibet, Paf...) with best price per outcome (Apify Actor, API + MCP).
 
 ## Tutorials and Talks
 
